@@ -21,7 +21,6 @@ int main() {
     char name[] = "Jake";
     std::cout << "Our name is: " << name << std::endl;
 
-
     /* Flow control */
     /* For */
     for (int i = 0; i < 10; i++) {
